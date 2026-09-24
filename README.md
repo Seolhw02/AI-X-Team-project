@@ -26,7 +26,7 @@
 ## 기술 스택
 
 - **Backend** — FastAPI, SQLAlchemy, MySQL, JWT
-- **AI / 음성** — faster-whisper(CTranslate2), OpenAI GPT-4o-mini, MediaPipe, OpenCV, noisereduce, pydub
+- **AI** — faster-whisper(CTranslate2), OpenAI GPT-4o-mini, MediaPipe, OpenCV, noisereduce, pydub
 - **Infra** — AWS Lightsail(Ubuntu), Nginx, Gunicorn, Tmux, Cloudinary
 
 <br>
